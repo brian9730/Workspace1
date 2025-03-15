@@ -1,6 +1,6 @@
-# Flutter 설치 및 구동
+# 1주차 - Flutter 설치 및 구동
 
-다음은 Flutter로 간단한 "Hello World"를 출력하는 코드입니다.
+다음은 Flutter로 간단한 "Hello World"를 출력하는 코드입니다.    
 
 ## 📖코드
 
@@ -23,4 +23,4 @@ void main() {
 ```
 
 ## 🖥️결과
-![결과창](./app/hello.png)
+<img src="./app/hello.png" width="50%" height="40%" alt="결과창"></img>
