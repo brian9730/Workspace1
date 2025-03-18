@@ -31,22 +31,7 @@ void main() {
 
 ## 📖실습문제1 - 구구단
 
-```dart
-void main() {
-  for (int i = 1; i <= 9; i++) {
-    for (int j = 1; j <= 9; j++) {
-      print("$i x $j = ${i * j}");
-    }
-    print("");
-  }
-}
-
-void printDan(int dan) {
-  for (var j = 1; j <= 9; j++) {
-    print('$dan * $j = ${dan * j}');
-  }
-}
-```
+[ex1.dart 파일 보기](app/2week/ex1.dart)
 
 ## 📖실습문제2 - 사각형
 [ex1.dart 파일 보기](app/2week/ex1.dart)
