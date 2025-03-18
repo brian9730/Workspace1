@@ -49,3 +49,5 @@ void printDan(int dan) {
 ```
 
 ## 📖실습문제2 - 사각형
+[ex1.dart 파일 보기](app/2week/ex1.dart)
+
