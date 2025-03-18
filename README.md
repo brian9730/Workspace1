@@ -34,9 +34,9 @@ Dart문법 학습하기
 
 ## 📖실습문제1 - 구구단
 
-[구구단 파일 보기](app/2week/ex1.dart)
+[✏️구구단 파일 보기](app/2week/ex1.dart)
 
 ## 📖실습문제2 - 사각형
 
-[사각형 파일 보기](app/2week/ex1.dart)
+[🟦사각형 파일 보기](app/2week/ex1.dart)
 
