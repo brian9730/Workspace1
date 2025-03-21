@@ -4,7 +4,7 @@
 
 ## 📖코드
 
-[😊 Hello World 코드 보기](app/2week/ex1.dart)
+[😊 Hello World 코드 보기](app/1week/hello.dart)
 
 ## 🖥️결과
 <img src="./app/hello.png" width="50%" height="40%" alt="결과창"></img>
