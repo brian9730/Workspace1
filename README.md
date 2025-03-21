@@ -4,23 +4,7 @@
 
 ## 📖코드
 
-```dart
-import 'package:flutter/material.dart';
-
-void main() {
-  runApp(
-    MaterialApp(
-      home: Scaffold(
-        body: Center(
-          child: Text(
-             'Hello World',
-          ),
-        ),
-      ),
-    )
-  );
-}
-```
+[😊 Hello World 코드 보기](app/2week/ex1.dart)
 
 ## 🖥️결과
 <img src="./app/hello.png" width="50%" height="40%" alt="결과창"></img>
