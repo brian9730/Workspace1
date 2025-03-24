@@ -36,3 +36,5 @@ Dart문법 학습하기 <br>
 ⭐객체지향 = 문제를 풀때 문제를 구성하고 있는 대상을 객체화 하는것
 
 Tip)객체와 인스턴스는 동일한 의미
+
+[실습문제 풀어보기](https://docs.google.com/presentation/d/1oYM2Qn0lEdFe5TLlpiKle7p_ecdEVhmuH4kYWWJqmwQ/edit?usp=sharing)
