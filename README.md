@@ -1,6 +1,6 @@
 # 🤓Today I Learned!🤓
 
-## 1주차 - Flutter 설치 및 구동
+# 1주차 - Flutter 설치 및 구동
 
 다음은 Flutter로 간단한 "Hello World"를 출력하는 코드입니다.    
 
@@ -12,7 +12,7 @@
 <img src="./app/hello.png" width="50%" height="40%" alt="결과창"></img>
 [실행결과 이미지](app/hello.png)
 
-## 2주차 - Dart개념 및 실습
+# 2주차 - Dart개념 및 실습
 
 Dart문법 학습하기 <br>
 [실습문제 풀어보기](https://docs.google.com/presentation/d/1aXllAnu3ZwwrJS9AMnVU6ud_vTI0keaCIOBQn-QEM64/edit#slide=id.g3335d87db6b_0_143)
@@ -29,7 +29,7 @@ Dart문법 학습하기 <br>
 
 [📆요일출력 코드 보기](app/2week/ex3.dart)
 
-## 3주차 -  Dart문법과 객체 
+# 3주차 -  Dart문법과 객체 
 
 [🤓Dart강의자료](https://docs.google.com/presentation/d/1oYM2Qn0lEdFe5TLlpiKle7p_ecdEVhmuH4kYWWJqmwQ/edit?usp=sharing)
 
@@ -62,3 +62,8 @@ setter
 
 믹스인: 키워드로 다른 클래스의 기능을 빌려옴
 ```
+
+### 📖실습하기1
+
+[🐵이름, 나이 출력하기](app/3week/ex4-1.dart)
+
