@@ -75,4 +75,10 @@ setter
 
 [🟦사각형 출력하기](app/3week/ex4-4.dart) / [😶영웅 출력하기](app/3week/ex4-5.dart)
 
-# 4주차 -   
+# 4주차 - Flutter 실습
+
+[🤓Flutter강의자료](https://docs.google.com/presentation/d/1_WUdaH1mP_ObZ_TiMxCTeB7aNkddJ1uiRHBE0V8nqVY/edit?slide=id.g33b3206563d_0_69#slide=id.g33b3206563d_0_69)
+
+### 📖실습하기1
+
+[🟦현재시각 표시하기](app/4week/ex5-1.dart)
