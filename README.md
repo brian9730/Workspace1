@@ -84,4 +84,4 @@ setter
 [⏰현재시각 표시 코드](app/4week/ex5-1.dart) 
 
 <img src="./app/w4.png" width="50%" height="40%" alt="결과창"></img> 
-[⏰현재시각 표시 사진](app/w4.png)
+[💻현재시각 표시 사진](app/w4.png)
