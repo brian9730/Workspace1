@@ -79,7 +79,7 @@ setter
 
 [🤓Flutter강의자료](https://docs.google.com/presentation/d/1_WUdaH1mP_ObZ_TiMxCTeB7aNkddJ1uiRHBE0V8nqVY/edit?slide=id.g33b3206563d_0_69#slide=id.g33b3206563d_0_69)
 
-### 📖실습하기1
+### 📖실습결과
 
 [⏰현재시각 표시 코드 보기](app/4week/ex5-1.dart) 
 
