@@ -84,4 +84,8 @@ setter
 [⏰현재시각 표시 코드 보기](app/4week/ex5-1.dart) 
 
 <img src="./app/w4.png" width="50%" height="40%" alt="결과창"></img> 
-[💻현재시각 표시 사진](app/w4.png)
+[현재시각 표시 사진](app/w4.png)
+
+# 5주차 - Flutter 기본위젯
+
+[🤓Flutter강의자료](https://docs.google.com/presentation/d/1NTg7YTuYcBfrvfmma_iyej33VDIkc9UaljrMkI6OZfY/edit?slide=id.p#slide=id.p)
