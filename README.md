@@ -92,12 +92,12 @@ setter
 
 ### 📖실습결과1
 
-[✌️화면 표시 코드 보기](app/4week/ex5-1.dart) 
+[✌️화면 표시 코드 보기](app/4week/ex5-2.dart) 
 
-<img src="./app/w4.png" width="50%" height="40%" alt="결과창"></img>
+<img src="./app/w6-1.png" width="50%" height="40%" alt="결과창"></img>
 
 ### 📖실습결과2
 
-[🪄계산기 표시 코드 보기](app/4week/ex5-1.dart) 
+[🪄계산기 표시 코드 보기](app/4week/ex5-3.dart) 
 
-<img src="./app/w4.png" width="50%" height="40%" alt="결과창"></img>
+<img src="./app/w6-2.png" width="50%" height="40%" alt="결과창"></img>
