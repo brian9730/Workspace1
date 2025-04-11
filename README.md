@@ -101,3 +101,5 @@ setter
 [🪄계산기 표시 코드 보기](app/5week/ex5-3.dart) 
 
 <img src="./app/w6-2.png" width="50%" height="40%" alt="결과창"></img>
+
+# 6주차 - Flutter 기본위젯
