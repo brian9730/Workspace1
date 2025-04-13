@@ -88,7 +88,7 @@ setter
 
 # 5주차 - Flutter 기본위젯
 
-[🤓Flutter강의자료](https://docs.google.com/presentation/d/1NTg7YTuYcBfrvfmma_iyej33VDIkc9UaljrMkI6OZfY/edit?slide=id.p#slide=id.p)
+[🤓기본위젯 강의자료](https://docs.google.com/presentation/d/1NTg7YTuYcBfrvfmma_iyej33VDIkc9UaljrMkI6OZfY/edit?slide=id.p#slide=id.p)
 
 ### 📖실습결과1
 
@@ -103,3 +103,5 @@ setter
 <img src="./app/w6-2.png" width="50%" height="40%" alt="결과창"></img>
 
 # 6주차 - Flutter 기본위젯
+
+[🤓기본위젯2 강의자료](https://docs.google.com/presentation/d/1P0z6OBXCOrCf1gqjarCdBDcXrrYMJIVWJq8ePzyBXPk/edit?usp=sharing)
