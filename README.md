@@ -105,3 +105,5 @@ setter
 # 6주차 - Flutter 기본위젯
 
 [🤓기본위젯2 강의자료](https://docs.google.com/presentation/d/1P0z6OBXCOrCf1gqjarCdBDcXrrYMJIVWJq8ePzyBXPk/edit?usp=sharing)
+
+### 📖강의 요약
