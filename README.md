@@ -106,4 +106,96 @@ setter
 
 [🤓기본위젯2 강의자료](https://docs.google.com/presentation/d/1P0z6OBXCOrCf1gqjarCdBDcXrrYMJIVWJq8ePzyBXPk/edit?usp=sharing)
 
-### 📖강의 요약
+### 📘 Flutter 위젯 라이프사이클 및 화면 전환 요약 (p.203 ~ 208)
+---
+
+### 🧩 1. 화면 전환 구조: Stack 기반
+
+Flutter는 화면 전환 시 **Stack 구조**로 동작함.
+
+- `push()` → 새 화면을 Stack 위에 쌓음
+- `pop()` → 현재 화면을 Stack에서 제거 후 이전 화면으로 돌아감
+
+### 📌 화면 흐름 예시
+
+1. 앱 실행  
+   → `FirstPage`의 `initState()` → `build()` 호출
+
+2. `push()`로 `SecondPage`로 이동  
+   → `SecondPage`의 `initState()` → `build()` 호출  
+   → `FirstPage`의 `build()`도 다시 호출됨 (백그라운드 전환)
+
+3. `pop()`으로 돌아옴  
+   → `FirstPage`의 `build()` 호출  
+   → `SecondPage`의 `dispose()` 호출
+
+4. 앱 종료  
+   → `FirstPage`의 `dispose()` 호출
+
+---
+
+## ⚙️ 2. 위젯 생명주기 메서드 정리
+
+| 메서드         | 호출 시점                         | 설명 |
+|----------------|----------------------------------|------|
+| `initState()`  | 위젯이 처음 생성될 때 1회 호출     | 초기 설정, 네트워크 요청 등 |
+| `build()`      | 위젯이 다시 그려질 때마다 호출     | UI 구성, 가벼운 처리만 가능 |
+| `dispose()`    | 위젯이 완전히 제거될 때 호출       | 리소스 해제 및 정리용 |
+
+> ✅ `build()`는 반복 호출되므로 복잡한 로직은 `initState()`에 작성해야 함
+
+---
+
+## 🚀 3. `push()` / `pop()` 메서드 개요
+
+- `Navigator.push()`  
+  → 새 페이지로 이동, `Future` 타입 반환 (비동기)
+
+- `Navigator.pop()`  
+  → 현재 페이지 제거 후 이전 페이지로 이동  
+  → 두 번째 인자로 이전 페이지에 데이터 전달 가능
+
+```dart
+Navigator.push(
+  context,
+  MaterialPageRoute(builder: (context) => SecondPage())
+);
+```
+
+```dart
+Navigator.pop(context, "ok");
+```
+
+---
+
+## 🧪 4. 로그 예시 출력 흐름
+
+```text
+// FirstPage 표시
+I/flutter: FirstPage initState()
+I/flutter: FirstPage build()
+
+// SecondPage push
+I/flutter: SecondPage initState()
+I/flutter: SecondPage build()
+I/flutter: FirstPage build()
+
+// SecondPage pop (FirstPage로 돌아감)
+I/flutter: FirstPage build()
+I/flutter: SecondPage dispose()
+
+// 앱 종료
+I/flutter: FirstPage dispose()
+```
+
+---
+
+## 📝 5. 마무리 요약
+
+- `StatefulWidget` 클래스에서는 상태 변화에 따라 `build()`가 자주 호출되므로 UI그리기 전용메소드로만 사용해야합니다.
+- **시간이 오래걸리거나 무거운 작업** `initState()`에서,  
+  **리소스 정리**는 `dispose()`에서 처리합니다.
+- 화면 전환은 `Navigator`의 `push()`와 `pop()`을 통해 Stack 구조로 이루어집니다.
+
+
+
