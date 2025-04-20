@@ -106,7 +106,7 @@ setter
 
 [🤓기본위젯2 강의자료](https://docs.google.com/presentation/d/1P0z6OBXCOrCf1gqjarCdBDcXrrYMJIVWJq8ePzyBXPk/edit?usp=sharing)
 
-### 📘 Flutter 위젯 라이프사이클 및 화면 전환 요약 (p.203 ~ 208)
+### 📘 위젯 라이프사이클 및 화면 전환 요약 (p.203 ~ 208)
 ---
 
 ### 🧩 1. 화면 전환 구조: Stack 기반
