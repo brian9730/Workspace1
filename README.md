@@ -199,10 +199,3 @@ I/flutter: FirstPage dispose()
 
 ---
 
-# 7주차 - 
-
-# 7주차 - 
-
-# 7주차 - 
-
-
