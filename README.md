@@ -190,7 +190,7 @@ I/flutter: FirstPage dispose()
 
 ---
 
-## 📝 5. 마무리 요약
+##  5. 마무리 요약
 
 - `StatefulWidget` 클래스에서는 상태 변화에 따라 `build()`가 자주 호출되므로 UI그리기 전용메소드로만 사용해야합니다.
 - **시간이 오래걸리거나 무거운 작업** `initState()`에서,  
