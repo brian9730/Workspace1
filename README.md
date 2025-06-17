@@ -255,7 +255,7 @@ I/flutter: FirstPage dispose()
 
 [✌️프로젝트 5주차 PPT 보기](app/ppt/focusmate5.pdf) 
 
-[✌️프로젝트 6주차 PPT 보기](app/ppt/focusmate5.pdf) 
+[✌️프로젝트 6주차 PPT 보기](app/ppt/focusmate6.pdf) 
 
 ## 기타
 
