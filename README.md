@@ -257,6 +257,8 @@ I/flutter: FirstPage dispose()
 
 [✌️프로젝트 6주차 PPT 보기](app/ppt/focusmate6.pdf) 
 
+[✌️프로젝트 !발표! PPT 보기](app/ppt/focusmate6.pdf) 
+
 ## 기타
 
 올라바 로컬앱
