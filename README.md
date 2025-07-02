@@ -1,4 +1,4 @@
-# 🤓Today I Learned!
+# 🤓Today I Learned!🤓
 
 # 1주차 - Flutter 설치 및 구동 
 
